@@ -3079,3 +3079,5 @@ gradle-app.setting
 .gradletasknamecache
 result
 result-*
+.env
+.venv/
